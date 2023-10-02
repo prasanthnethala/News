@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@700&family=Baloo+2&family=Lato:wght@400;700;900&family=Montserrat:wght@300;400;800&family=Roboto:wght@300;500&family=Spirax&display=swap');
+*{
+  
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+#publishedId{
+  opacity: 0.6;
+  color: black;
+}
+.App {
+  max-width: 1250px;
+  margin: auto;
+  font-family: 'Lato', sans-serif;
+}
